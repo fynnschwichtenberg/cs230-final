@@ -13,7 +13,7 @@ far away they are from the airport. Depending on the range they fall in,
 a different color will be attributed to the dot representing the one or many Air bnbs and how close they are.
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://convenienceairbnbboston.streamlit.app/)
 
 ### How to run it on your own machine
 
